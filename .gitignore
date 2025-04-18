@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+*.egg-info/
+
+# Heavy files
+data/*
+models/*
+*.npy
+*.h5
+*.pkl
+*.csv
+*.zip
+*.tar.gz
+
+# VS Code
+.vscode/
+
+# Temp files
+*.log
+*.tmp
+*.cache
