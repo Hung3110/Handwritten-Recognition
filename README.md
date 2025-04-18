@@ -14,3 +14,5 @@ Dự án nhận diện chữ viết tay sử dụng CNN để trích xuất đ�
 4. Chạy script train_model.py
 5. Chạy script predict_app.py
 
+hoặc link thư mục data và models:
+https://drive.google.com/drive/folders/1uBxeZgrJ4UwyaZ1aH0mCi_w_2SisjCfq?usp=sharing
